@@ -1,0 +1,46 @@
+>About this programme<
+
+Custom TCP Passthrough
+Copyright (C) 2012 asisit@hotmail.com
+
+This programme is released under the terms of the GNU General Public License version 3, published by "Free Software Foundation".
+
+This programme is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Open "GNU General Public License v3.0.txt" for more information.
+
+
+
+
+>Source code<
+
+Custom TCP Passthrough (custom-tcp-passthrough.exe):
+http://code.google.com/p/custom-tcp-passthrough/
+http://custom-tcp-passthrough.googlecode.com/svn
+
+Qt 4 Runtime (qtcore4.dll, qtgui4.dll, qtnetwork4.dll):
+http://qt.nokia.com/downloads
+
+GCC Runtime (libgcc_s_dw2-1.dll):
+http://gcc.gnu.org/mirrors.html
+
+
+
+
+>Licences<
+
+
+Custom TCP Passthrough (custom-tcp-passthrough.exe):
+GPL v3
+"GNU General Public License v3.0.txt"
+
+Qt 4 Runtime (qtcore4.dll, qtgui4.dll, qtnetwork4.dll):
+LGPL v2
+"GNU Lesser General Public License v2.1.txt"
+
+GCC Runtime (libgcc_s_dw2-1.dll):
+RLE
+"GCC Runtime Library Exception.txt"
+
+Application icon Copyright by "kngzero" <kngzero.deviantart.com>
+Downloaded from http://www.icofree.com/icons/332/ (file kx2-network-service.ico)
+Use permitted under the following terms: "[The icons] are free for personal and non commercial use / free for public non-commercial use with a backlink to authors."

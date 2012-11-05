@@ -1,7 +1,0 @@
-Custom TCP Passthrough
-Copyright (C) 2012 asisit@hotmail.com
-
-This programme is released under the terms of the GNU General Public License version 3, published by "Free Software Foundation".
-
-This programme is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-Open "GNU General Public License v3.0.txt" for more information.
