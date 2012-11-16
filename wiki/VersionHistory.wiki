@@ -7,7 +7,7 @@ This article lists version changelogs and currently known bugs.
 
 == Known Bugs ==
   * It says "Getting error -2,10061" instead of "-2,10060". This text will be corrected in future versions.
-=== If you want to submit a bug, you can do this using the [https://code.google.com/p/custom-tcp-passthrough/issues/list issue tracker]. ===
+To submit a bug, you can use the [https://code.google.com/p/custom-tcp-passthrough/issues/list issue tracker].
 
 
 == Version 1.0.0 ==
