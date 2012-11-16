@@ -1,4 +1,5 @@
 #summary Version history and changelog.
+#labels Featured
 
 = Introduction =
 
