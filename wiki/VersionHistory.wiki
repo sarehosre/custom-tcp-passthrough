@@ -2,7 +2,11 @@
 
 = Introduction =
 
-This article lists all version changelogs.
+This article lists version changelogs and currently known bugs.
+
+== Known Bugs ==
+It says "Getting error -2,10061" instead of "-2,10060". This text will be corrected in future versions.
+
 
 == Version 1.0.0 ==
 Initial release
